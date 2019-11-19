@@ -39,5 +39,5 @@ Then run data2image.m to create your own dataset
 
  ## Step 3: Testing
  ```
-    run test_resnet.py to train the model
+    run test_resnet.py to test the model
  ```
